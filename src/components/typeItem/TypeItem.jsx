@@ -84,7 +84,7 @@ export default function TypeItem(props) {
 
   return (
     <li className="typeItem" style={buttonStyle}>
-      <b>{props.name.toUpperCase()}</b>
+      <b>{props.name}</b>
     </li>
   );
 }

@@ -13,7 +13,7 @@ export default function PkCard(props) {
         }
         alt="pokemonImg.png"
       />
-      <h3 className="pokemonName">{props.name.toUpperCase() || "?????"}</h3>
+      <h3 className="pokemonName">{props.name || "?????"}</h3>
       {props.types && (
         <ul className="typeList">
           {props.types.map((t) => {
