@@ -1,0 +1,70 @@
+.Home {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.pokemonLogo {
+  margin: 20px;
+  height: 15vh;
+}
+
+.cardGroup {
+  height: 75vh;
+  width: 90vw;
+  background-color: #66c4d9;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex-direction: column;
+  border-radius: 15px;
+  margin-bottom: 50px;
+}
+
+.homeTitle {
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  font-size: 5vw;
+  margin-top: 50px;
+  color: #efbc0a;
+  margin-bottom: 20px;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: #1f6797;
+}
+
+.pokemonCards {
+  height: 60%;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+.generateButton {
+  margin: 15px;
+  border: 1px solid #1f6797;
+  border-radius: 10px;
+  font-family: "Roboto", sans-serif;
+  background-color: #bee3f4;
+  font-size: 30px;
+  color: #efbc0a;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: #1f6797;
+  cursor: pointer;
+}
+
+.copyrightInfo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 15px;
+  color: #efbc0a;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 20px;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: #1f6797;
+}

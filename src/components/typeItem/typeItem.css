@@ -1,0 +1,11 @@
+.typeItem {
+  align-self: center;
+  border: 2px solid white;
+  font-size: calc(100% - 10px);
+  /* font-family: "Press Start 2P", cursive; */
+  padding: 8px;
+  margin: 3px;
+  border-radius: 10px;
+  /* -webkit-text-stroke-width: 0.5px;
+  -webkit-text-stroke-color: black; */
+}
