@@ -26,8 +26,8 @@
 .homeTitle {
   text-align: center;
   font-family: "Roboto", sans-serif;
-  font-size: 5vw;
-  margin-top: 50px;
+  font-size: 50px;
+  margin: 50px 10px;
   color: #efbc0a;
   margin-bottom: 20px;
   -webkit-text-stroke-width: 1px;
