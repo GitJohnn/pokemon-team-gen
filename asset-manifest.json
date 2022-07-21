@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pokemon-team-gen/static/css/main.5316e0cf.css",
+    "main.js": "/pokemon-team-gen/static/js/main.e99493b3.js",
+    "index.html": "/pokemon-team-gen/index.html",
+    "main.5316e0cf.css.map": "/pokemon-team-gen/static/css/main.5316e0cf.css.map",
+    "main.e99493b3.js.map": "/pokemon-team-gen/static/js/main.e99493b3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5316e0cf.css",
+    "static/js/main.e99493b3.js"
+  ]
+}
